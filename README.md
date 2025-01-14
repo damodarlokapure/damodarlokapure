@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damodarlokapure
-- 👀 I’m interested in competitive programming
+- 👀 I’m interested in competitive programming and ai/ml
 - 🌱 I’m currently learning c++ and dsa
 
 
