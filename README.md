@@ -8,7 +8,7 @@ I am a second-year BTech student at **NIT Goa**, passionate about programming an
 - Currently learning **Data Structures & Algorithms (DSA)** and **Web Development**  
 - Proficient in **C** and **C++** programming languages  
 - Skilled in frontend technologies: **JavaScript**, **HTML5**, **CSS3**, **Tailwind CSS**  
-- Comfortable writing documentation and README files in **Markdown**
+
 
 ---
 
