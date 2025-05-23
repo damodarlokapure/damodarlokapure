@@ -1,6 +1,6 @@
 # Hi, I'm Damodar Lokapure 👋
 
-I am a second-year BTech student at **NIT Goa**, passionate about programming and web development.
+I am a second-year BTech student at **NIT Goa**, passionate about programming.
 
 ---
 
