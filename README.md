@@ -70,7 +70,7 @@ I am a second-year BTech student at **NIT Goa**, passionate about programming an
 
 ## 📫 How to reach me
 - Check out my projects here on GitHub  
-- Connect with me on LinkedIn (add your link here)  
+- Connect with me on LinkedIn   
 
 ---
 
